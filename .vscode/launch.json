@@ -6,17 +6,45 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "main.java.com.exemplo.app.Main",
+            "projectName": "Projeto-POO_e2f4cb3a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "main.java.com.exemplo.app.Main",
+            "projectName": "Projeto-POO_e2f4cb3a"
+        },
+        {
+            "type": "java",
+            "name": "FundoEscuro",
+            "request": "launch",
+            "mainClass": "FundoEscuro",
+            "projectName": "Projeto-POO_e2f4cb3a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Projeto-POO_e2f4cb3a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
-            "type": "java",
-            "name": "Teste",
-            "request": "launch",
-            "mainClass": "Teste",
-            "projectName": "Projeto-POO_e2f4cb3a",
-            "vmArgs": "--module-path \"C:\\Users\\gui90\\Downloads\\javafx-sdk-24.0.2\\javafx-sdk-24.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
-        }
+    "type": "java",
+    "name": "Main",
+    "request": "launch",
+    "mainClass": "main.java.com.exemplo.app.Main",
+    "projectName": "Projeto-POO_e2f4cb3a",
+    "vmArgs": "--module-path \"C:\\Users\\gui90\\Downloads\\javafx-sdk-24.0.2\\javafx-sdk-24.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+}
     ]
 }
